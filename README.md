@@ -1,4 +1,4 @@
-# Webcoin Labs - Website README
+# Webcoin Labs - Early HTML Realease
 
 ## Overview
 Webcoin Labs is a marketing and blockchain-focused platform that connects projects with venture capitalists, provides Web3 marketing services, and offers innovative solutions for the crypto ecosystem. This website serves as the digital front for Webcoin Labs, showcasing its services, partnerships, and contact details.
